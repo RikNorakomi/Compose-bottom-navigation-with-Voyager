@@ -48,7 +48,7 @@ internal fun SettingsDetail(onNavigateBack: () -> Unit) {
     }
 }
 
-@Preview
+@Preview(showSystemUi = true, showBackground = true)
 @Composable
 fun SettingsDetailPreview() {
     SettingsDetail(onNavigateBack = {})
