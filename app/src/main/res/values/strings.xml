@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeBottomNavigatonSample</string>
+    <string name="home_tab">Home</string>
+    <string name="settings_tab">Settings</string>
+</resources>
